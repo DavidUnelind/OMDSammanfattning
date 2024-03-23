@@ -1,4 +1,4 @@
-# OMDSammanfattning
+# OMD Sammanfattning
 Sammanfattning/tentaplugg till EDAF60: Objektorienterad modellering och design (OMD)  
 Repot innehåller massa kodexempel till de olika patterns som används i kursen. Kolla presentationen för mer info.  
 Sammanfattnings presentation: https://docs.google.com/presentation/d/1GiP1A_J2eVC9Up1VcYWf8AUaWjQwPTCis1hnX1uyl08/edit?usp=sharing  
